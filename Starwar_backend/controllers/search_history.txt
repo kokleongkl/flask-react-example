@@ -1,0 +1,1 @@
+/{"name": "C-3PO", "gender": "n/a", "star_ships": [], "vehicles": [], "homeworld": {"name": "Tatooine", "population": "200000", "climate": "arid"}}
